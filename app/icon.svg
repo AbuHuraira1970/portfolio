@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#14161B"/>
+  <rect x="12" y="14" width="40" height="36" fill="none" stroke="#3BA3FF" stroke-width="2.5"/>
+  <rect x="8" y="10" width="8" height="8" fill="#fff" stroke="#3BA3FF" stroke-width="2"/>
+  <rect x="48" y="46" width="8" height="8" fill="#fff" stroke="#3BA3FF" stroke-width="2"/>
+  <text x="32" y="42" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-weight="900" font-size="24" fill="#fff">A</text>
+</svg>
